@@ -1,16 +1,43 @@
-# React + Vite
+# K72.ca Website Clone – Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **demo clone of the K72.ca website**, built using **React**, **Tailwind** and **GSAP**.  
+It is **not a full clone**, but a showcase of what can be recreated using modern front-end tools and animation libraries.
 
-Currently, two official plugins are available:
+The goal of this demo is to replicate the look and feel of the original site’s animations as closely as possible, while keeping the implementation simple and understandable.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- React-based interface  
+- Smooth GSAP animations  
+- Partial recreation of the original K72.ca layout and transitions  
+- Clean, modern front-end structure  
 
-## React Compiler
+## 🔧 Technologies Used
+- **React**
+- **GSAP (GreenSock Animation Platform)**
+- CSS / SCSS  
+- JavaScript / JSX
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Notes
+This is **not yet a full clone** — more like a starting point or concept demo.  
+I plan to continue updating it to **look and work even better** in the future.
 
-## Expanding the ESLint configuration
+## 📈 Future Improvements
+- More accurate animation timing and transitions  
+- Additional pages and sections  
+- Improved responsiveness  
+- Cleaner component architecture  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/repo-name.git
+
+# Go into the project folder
+cd repo-name
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
