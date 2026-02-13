@@ -3,6 +3,8 @@
 This project is a **demo clone of the K72.ca website**, built using **React**, **Tailwind** and **GSAP**.  
 It is **not a full clone**, but a showcase of what can be recreated using modern front-end tools and animation libraries.
 
+Link:- https://k27-clone-demo.onrender.com/
+
 The goal of this demo is to replicate the look and feel of the original site’s animations as closely as possible, while keeping the implementation simple and understandable.
 
 ## 🚀 Features
