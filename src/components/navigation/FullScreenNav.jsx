@@ -87,7 +87,7 @@ function FullScreenNav() {
         </div>
       </div>
       <div ref={fullNavLinksRef} className="relative">
-        <div className="navlink fixed top-0 flex w-full justify-between items-start">
+        <div className="navlink fixed top-0 flex w-full justify-between items-start overflow-hidden">
           <div className="k27 p-3">
             <div className="w-26">
               <svg className="w-full" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 103 44">

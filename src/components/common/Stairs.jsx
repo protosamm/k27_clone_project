@@ -62,7 +62,7 @@ function Stairs(props) {
 
   
     return (
-    <div>
+    <div className='overflow-hidden'>
       <div ref={stairParentRef} className='h-screen w-full fixed z-10 top-0'>
         <div className='h-full w-full fixed flex'>
           <div className='stair h-full w-1/5 bg-black'></div>
